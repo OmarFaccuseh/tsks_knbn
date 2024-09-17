@@ -1,0 +1,9 @@
+# Ignorar archivos de configuración de entorno
+*.env
+
+# Ignorar el directorio de archivos estáticos recopilados
+staticfiles/
+
+# Ignorar archivos de caché
+*.pyc
+__pycache__/
